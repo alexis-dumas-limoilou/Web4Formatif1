@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E873C12D-DAB8-493C-8F33-884B7455156D}|src\\Web2.API\\Web2.API.csproj|c:\\users\\maste\\onedrive - c\u00E9gep limoilou\\progweb4\\formatif\\formatif 1\\web4formatif1\\src\\web2.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873C12D-DAB8-493C-8F33-884B7455156D}|src\\Web2.API\\Web2.API.csproj|solutionrelative:src\\web2.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873C12D-DAB8-493C-8F33-884B7455156D}|src\\Web2.API\\Web2.API.csproj|c:\\users\\maste\\onedrive - c\u00E9gep limoilou\\progweb4\\formatif\\formatif 1\\web4formatif1\\src\\web2.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873C12D-DAB8-493C-8F33-884B7455156D}|src\\Web2.API\\Web2.API.csproj|solutionrelative:src\\web2.api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E873C12D-DAB8-493C-8F33-884B7455156D}|src\\Web2.API\\Web2.API.csproj|C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\web2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E873C12D-DAB8-493C-8F33-884B7455156D}|src\\Web2.API\\Web2.API.csproj|solutionrelative:src\\web2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1544915218:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1978577605:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\Web2.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\Web2.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:07:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Web2.API\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Models\\Product.cs",
+              "RelativeToolTip": "src\\Web2.API\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:30:58.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web2.API\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive - C\u00E9gep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Program.cs",
+              "RelativeToolTip": "src\\Web2.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T00:23:40.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
