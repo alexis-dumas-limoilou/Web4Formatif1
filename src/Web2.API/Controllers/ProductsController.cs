@@ -7,6 +7,7 @@ namespace Web2.API.Controllers
 {
     [Route("api/v1/[controller]")]
     [ApiController]
+    [Produces("application/json")]
     public class ProductsController : ControllerBase
     {
         static List<Product> products = new List<Product>()

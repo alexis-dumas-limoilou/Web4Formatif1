@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LIzfA5hsF55aiFNlgPKCw3zsk0tQKhoWrUXpO0wnM76vOiKxmzpAzbOfQFGI+RaKSkHk4nauHp3IjlyF9zGERw==",
+  "dgSpecHash": "JA7Hu9f309T4vccgftOAk8GaTYfavxyTiMqIeSM4blHd1OhTcRxtkZrwzxftuIMWsm/HEQjs9Y5kRrr0JFkjeA==",
   "success": true,
   "projectFilePath": "C:\\Users\\maste\\OneDrive - Cégep Limoilou\\ProgWeb4\\Formatif\\Formatif 1\\Web4Formatif1\\src\\Web2.API\\Web2.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\maste\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
   "logs": []
 }
